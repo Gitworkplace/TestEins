@@ -6,9 +6,4 @@ Nochmal geändert
 
 -nocheinmal
 
-<<<<<<< HEAD
-abc
-=======
-
-johannes
->>>>>>> bca5eaaa876a60615d55e8829ccfa2222dbeb892
+bla
